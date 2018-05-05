@@ -10,3 +10,20 @@
 ul > nav > ul > li > a:hover{
     background-color:rgb(18, 17, 26);
 }
+
+.doc{
+    background-color: #23B0AB;
+}
+
+.deporte{
+    background-color: #25BA58;
+}
+.musica{
+    background-color: #52A328;
+}
+.cursos{
+    background-color: #A39F2E;
+}
+.viajes{
+    background-color: #A38220;
+}
