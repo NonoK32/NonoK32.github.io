@@ -27,3 +27,10 @@ ul > nav > ul > li > a:hover{
 .viajes{
     background-color: #A38220;
 }
+.destacado{
+    background-color: rgb(185, 107, 107);
+}
+.icon{
+    width:100%;
+    height: auto;
+}
